@@ -1,5 +1,5 @@
 // 星球檢測
-// not passed
+// passed, 是測資有問題，已修正。
 #include <bits/stdc++.h>
 
 using namespace std;
