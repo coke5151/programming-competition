@@ -270,3 +270,6 @@ Cargo.lock
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/go,c++,python,jupyternotebooks,visualstudiocode,rust
+
+# CPH Extension
+.cph/
